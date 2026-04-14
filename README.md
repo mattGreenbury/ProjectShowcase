@@ -23,7 +23,7 @@ Analyzing CRISM (Compact Reconnaissance Imaging Spectrometer) data from mars. To
 
 <img width="1010" height="601" alt="image" src="https://github.com/user-attachments/assets/710710b0-a75a-4775-bcec-af139eee95de" />
 
-## Gamedev both 3d and 2d as a hobbie
+## Gamedev both 3d and 2d as a hobby
 
 <img width="997" height="877" alt="image" src="https://github.com/user-attachments/assets/9f026b2c-f796-42e5-b5ea-005703b10396" />
 
